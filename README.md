@@ -11,6 +11,9 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 - ⚡ *Fun fact:* If you want to crack a system, First under the system.
 
 ## 🌐 Socials:
+<p align="left">
+<a href="https://linkedin.com/in/pranav-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-v" height="30" width="40" /></a>
+</p>
 [![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgDLO8IhXSVOgA1oiLBrf2g%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavvijayakumar20@gmail.com) 
 
 
