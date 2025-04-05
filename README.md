@@ -8,7 +8,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 - 💬 *Ask me about:* Ethucal Hacking, Cyber Security, Bug Bountry.
 - 📫 *How to reach me:* Pranavvijayakumar20@gmail.com
 - 😄 *Pronouns:* Pranav Sir
-- ⚡ *Fun fact:* If you want to crack a system, First under the system.
+- ⚡ *Fun fact:* If you want to crack a system, First understand the system.
 
 ## 🌐 Socials:
 <p align="left">
