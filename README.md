@@ -16,7 +16,13 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 # 💻 Languages:
 
-# 💻 Tools:
+# In Code:
+
+<img height="50" width="50" src="https://icons8.com/icon/40670/c-programming" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 
 # 💻 Tech Stack:
