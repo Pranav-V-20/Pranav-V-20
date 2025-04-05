@@ -14,19 +14,14 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pranav-v-8886252a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavvijayakumar20@gmail.com) 
 
 
-# 💻 Languages:
-
 # In Code:
 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" /> 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 💻 Tool & IDE:
+
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=16105&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=41078&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1qLmcGPgiHEf&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" />
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
