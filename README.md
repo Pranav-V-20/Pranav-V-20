@@ -1,3 +1,14 @@
+# 💫 Hi 👋, I'm Pranav V
+*A passionate Cyber Security || Ethical Hacker ||  from Indi*
+
+Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+
+- 🌱 *I’m currently learning:* Cyber Security at S.A.Engineering College.
+- 👯 *I’m looking to collaborate on:* Cyber Security & Ethical Hacking.
+- 💬 *Ask me about:* Ethucal Hacking, Cyber Security, Bug Bountry.
+- 📫 *How to reach me:* Pranavvijayakumar20@gmail.com
+- 😄 *Pronouns:* Pranav Sir
+- ⚡ *Fun fact:* If you want to crack a system, First under the system.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/pranav-v-8886252a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavvijayakumar20@gmail.com) 
@@ -16,8 +27,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranav-V-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranav-V-20&icon=0&color=0)](https://visitcount.itsvg.in)
