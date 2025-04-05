@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Pranav V
-*A passionate Cyber Security || Ethical Hacker ||  from Indi*
+*A passionate Cyber Security || Ethical Hacker ||  from India*
 
 Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
