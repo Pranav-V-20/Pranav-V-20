@@ -18,7 +18,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 # In Code:
 
-<img height="50" width="50" src="![image](https://github.com/user-attachments/assets/dc3e495c-566c-4be8-b282-77ea3466d70f)"/>
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
