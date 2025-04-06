@@ -5,7 +5,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 - 🌱 *I’m currently learning:* Cyber Security at S.A.Engineering College.
 - 👯 *I’m looking to collaborate on:* Cyber Security & Ethical Hacking.
-- 💬 *Ask me about:* Ethucal Hacking, Cyber Security, Bug Bountry.
+- 💬 *Ask me about:* Ethical Hacking, Cyber Security, Bug Bountry.
 - 📫 *How to reach me:* pranavvijayakumar20@gmail.com
 - 😄 *Pronouns:* Pranav Sir
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
