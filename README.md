@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/49df2d88-8214-4716-951c-e8ac3d17f04c)
 
-# 💫 Hi 👋, I'm Pranav V
+# 💫 Hi 👋, I'm Pranav Vijayakumar 
 *A passionate Cyber Security || Ethical Hacker ||  from India*
 
 Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or Anything Else. 😊😊
