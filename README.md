@@ -18,7 +18,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-v" height="30" width="40" /></a> <a href="https://instagram.com/pra_nav_20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pra_nav_20_" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pranav-v" height="35" /></a> <a href="https://instagram.com/pra_nav_20_" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="pra_nav_20_" height="35" /></a> 
 </p>
 
 # In Code:
@@ -27,8 +27,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 # 💻 Tool & IDE:
 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=16105&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=25250&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1qLmcGPgiHEf&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" />
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=16105&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=25250&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1qLmcGPgiHEf&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" />
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
