@@ -34,13 +34,22 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
+  <img src="https://i.gifer.com/origin/3e/3e38d5bb0a7aeedc6fd1083d8c4de631.gif" alt="Matrix rain animation" />
+</div>
+
+
 # 📊 TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Pranav.V.png" alt="Your Image Badge" />
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Pranav-V-20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav-V-20&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranav-V-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
