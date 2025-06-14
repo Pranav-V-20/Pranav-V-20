@@ -40,7 +40,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 # 📊 TryHackMe
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3592098" style='border:none;'></iframe>
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/Pranav.V.png" height="150" alt="Your Image Badge" />
 
 # 📊 GitHub Stats:
 
