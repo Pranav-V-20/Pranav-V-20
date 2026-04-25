@@ -23,7 +23,13 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 
 # In Code:
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" /> 
+<div style="display:flex; flex-direction:row; gap:10px;">
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
+  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" />
+</div>
 
 # 💻 Tool & IDE:
 
