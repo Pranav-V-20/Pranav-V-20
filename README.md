@@ -82,15 +82,16 @@ pranav@root:~$ access --dashboard
    <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logoColor=00ff00"/> 
    <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=00ff00"/> 
    <img src="https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logoColor=00ff00"/> 
-   <br/> <!-- Web & Dev --> 
-   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00"/> 
-   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00"/> 
-   <br/> <!-- SIEM / Blue Team --> 
-   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff00"/>
    <br/> <!-- OS / Platforms --> 
    <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00"/> 
    <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00ff00"/>
-   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00ff00"/> </p>
+   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00ff00"/>
+   <img src="https://img.shields.io/badge/Windows_Server-000000?style=for-the-badge&logo=windows&logoColor=00ff00"/>
+   <br/> <!-- Web & Dev --> 
+   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff00"/>
+</p>
 
 ## 🧪 CYBER RANGE
 
@@ -110,13 +111,6 @@ pranav@root:~$ access --dashboard
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-V-20&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true"/>
-</p>
-
-### 📊 SYSTEM METRICS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-V-20&show_icons=true&theme=dark&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ### 🧬 OPERATOR PHILOSOPHY
