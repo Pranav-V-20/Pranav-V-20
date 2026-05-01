@@ -11,7 +11,7 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 - 📫 *How to reach me:* pranavvijayakumar20@gmail.com
 - 😄 *Pronouns:* Pranav Sir
 - 👨‍💻 *All of my projects are available at:* [Portfolio](https://pranav-v-20.github.io/Portfolio/)
-- 📄 *Know about my experiences:* [Resume](https://drive.google.com/file/d/1xZqblrY7QGSwq5gjIuPr1SZbVwpmkECs/view)
+- 📄 *Know about my experiences:* [Resume](https://drive.google.com/file/d/1xuQ7f9utyXGE7FOxUThntha3PpSkE7vT/view?usp=sharing)
 - ⚡ *Fun fact:* If you want to crack a system, First understand the system.
 
 <div style="text-align: center;"> <img src="https://spyboyblog.wordpress.com/wp-content/uploads/2025/04/dont-e1743754230810.png" alt="spyboy" style="max-width: 100%;"> </div>
@@ -62,27 +62,35 @@ pranav@root:~$ access --dashboard
 
 ## 🧰 ARSENAL
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,linux,git,github,vscode&theme=dark" />
-</p>
+<p align="center"> 
+   <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,linux,git,github,vscode,docker&theme=dark" /> 
+</p> 
 
-<p align="center">
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff00"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=00ff00"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff00"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logoColor=00ff00"/>
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00"/>
-</p>
-
-## 🚀 ACTIVE OPERATIONS
-
-```bash
-[✔] Web Vulnerability Scanner (OWASP Top 10)
-[✔] Encrypted Keylogger (Secure Exfiltration)
-[✔] Custom Command & Control Framework
-[✔] Python Personal Firewall
-[✔] BLE Sniffer / IoT Security Tool
-```
+<p align="center"> <!-- Offensive Tools --> 
+   <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <br/> <!-- Network & Analysis --> 
+   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Tcpdump-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <br/> <!-- Exploitation & Red Team --> 
+   <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logoColor=00ff00"/> 
+   <br/> <!-- Web & Dev --> 
+   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00"/> 
+   <br/> <!-- SIEM / Blue Team --> 
+   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00ff00"/>
+   <br/> <!-- OS / Platforms --> 
+   <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00"/> 
+   <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00ff00"/>
+   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00ff00"/> </p>
 
 ## 🧪 CYBER RANGE
 
@@ -107,8 +115,8 @@ pranav@root:~$ access --dashboard
 ### 📊 SYSTEM METRICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-V-20&show_icons=true&theme=vision-friendly-dark&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=00ff00"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00ff00&text_color=00ff00"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav-V-20&show_icons=true&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 ### 🧬 OPERATOR PHILOSOPHY
@@ -135,7 +143,7 @@ pranav@cybersec:~$ mission
 ## 🟢 END SESSION
 
 <p align="center">
-<img src="https://i.gifer.com/origin/3e/3e38d5bb0a7aeedc6fd1083d8c4de631.gif" width="100%"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk.gif" width="100%"/>
 </p>
 
 ---
