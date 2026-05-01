@@ -17,52 +17,127 @@ Email Me 👉 ✉ *pranavvijayakumar20@gmail.com* For Collaboration/Project or A
 <div style="text-align: center;"> <img src="https://spyboyblog.wordpress.com/wp-content/uploads/2025/04/dont-e1743754230810.png" alt="spyboy" style="max-width: 100%;"> </div>
 
 ## 🌐 Socials:
+
 <p align="left">
-<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="pranav-v" height="35" /></a> <a href="https://instagram.com/pra_nav_20_" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="pra_nav_20_" height="35" /></a> 
+<a href="https://linkedin.com/in/pranav-v-8886252a4" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"/>
+</a>
+<a href="https://instagram.com/pra_nav_20_" target="blank">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00"/>
+</a>
 </p>
 
-# In Code:
+## 🟢 SYSTEM INITIALIZATION
 
-<div style="display:flex; flex-direction:row; gap:10px;">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" />
-  <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000" />
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=900&lines=Initializing+Pranav+V...;Ethical+Hacker+%7C+Red+Team+Enthusiast;Cyber+Security+Researcher;Breaking+Systems+to+Secure+Them;Welcome+to+my+Cyber+Lab+%F0%9F%92%BB" />
+</p>
 
-# 💻 Tool & IDE:
+## 🧠 RED TEAM DASHBOARD
 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=16105&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=25250&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1qLmcGPgiHEf&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=FwaVI1qCE7hQ&format=png&color=000000" />
+```bash
+pranav@root:~$ access --dashboard
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+[✔] Identity        : Ethical Hacker
+[✔] Specialization  : Web Exploitation | C2 Development | Malware Analysis
+[✔] Mode            : Red Team / Offensive Security
+[✔] Status          : ACTIVE 🟢
+```
 
-<div align="center">
-  <img src="https://i.gifer.com/origin/3e/3e38d5bb0a7aeedc6fd1083d8c4de631.gif" alt="Matrix rain animation" />
-</div>
+## ⚔️ ATTACK SURFACE
 
+```text
+🔴 Web Application Security
+   → XSS | SQL Injection | CSRF | Authentication Bypass
 
-# 📊 TryHackMe
+🔴 Exploit Development
+   → Payload Creation | Reverse Shell | C2 Communication
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Pranav.V.png" align="center" height="150" alt="Your Image Badge" />
+🔴 Network Security
+   → Packet Analysis | Traffic Manipulation | MITM Concepts
 
-# 📊 GitHub Stats:
+🔴 Malware Research
+   → Static Analysis | Dynamic Analysis | Behavior Tracking
+```
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pranav-V-20&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
-</div>
+## 🧰 ARSENAL
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js,linux,git,github,vscode&theme=dark" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranav-V-20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff00"/>
+</p>
 
+## 🚀 ACTIVE OPERATIONS
+
+```bash
+[✔] Web Vulnerability Scanner (OWASP Top 10)
+[✔] Encrypted Keylogger (Secure Exfiltration)
+[✔] Custom Command & Control Framework
+[✔] Python Personal Firewall
+[✔] BLE Sniffer / IoT Security Tool
+```
+
+## 🧪 CYBER RANGE
+
+### 🔴 TryHackMe
+
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Pranav.V.png" height="150"/>
+</p>
+
+<p align="center">
+<a href="https://tryhackme.com/p/Pranav.V">
+<img src="https://img.shields.io/badge/Visit_Profile-000000?style=for-the-badge&logoColor=00ff00"/>
+</a>
+</p>
+
+### 📡 LIVE TELEMETRY
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-V-20&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+### 📊 SYSTEM METRICS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav-V-20&show_icons=true&theme=vision-friendly-dark&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=00ff00"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-V-20&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=00ff00&text_color=00ff00"/>
+</p>
+
+### 🧬 OPERATOR PHILOSOPHY
+
+```text
+"Attackers think in possibilities.
+Defenders think in controls.
+I think in both."
+```
+
+### 💻 TERMINAL ACCESS
+
+```bash
+pranav@cybersec:~$ whoami
+> Red Team Enthusiast
+
+pranav@cybersec:~$ current_focus
+> Advanced Exploitation + AI in Cyber Security
+
+pranav@cybersec:~$ mission
+> Build. Break. Secure. Repeat.
+```
+
+## 🟢 END SESSION
+
+<p align="center">
+<img src="https://i.gifer.com/origin/3e/3e38d5bb0a7aeedc6fd1083d8c4de631.gif" width="100%"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranav-V-20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-V-20&bg_color=000000&color=ffffff&line=00d10e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
