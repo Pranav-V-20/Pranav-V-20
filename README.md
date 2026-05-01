@@ -134,12 +134,12 @@ pranav@cybersec:~$ mission
 > Build. Break. Secure. Repeat.
 ```
 
-## 🟢 END SESSION
+<h3 align="center">🟢 END SESSION</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/cyberpunk.gif" width="100%"/>
-</p>
+```bash
+> pranav@cybersec:~$ exit
 
----
-
-
+[✓] Logs saved
+[✓] Connection terminated
+[✓] Session closed
+```
